@@ -1,6 +1,6 @@
-Parse Teochew word lists and dictionaries for characters that are not in the
-Unicode Basic Multilingual Plane (i.e. code points over U+FFFF). Glyphs for
-such characters are likely to be missing from many fonts.
+Parse Teochew word lists and dictionaries for CJK characters that are not in
+the basic CJK Unified Ideographs block (u+4e00..u+9fff). Glyphs for such
+characters are likely to be missing from many fonts.
 
 Sources: 
  - `ghou_lim_1983` - 吳華重、林適民《潮州音字典》1983年, transcription by 騰達
