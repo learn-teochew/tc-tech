@@ -1,236 +1,236 @@
-char	codepoint	block	sources
-㑳	u+3473	CJK Unified Ideographs Extension A	lim_1997
-㑺	u+347a	CJK Unified Ideographs Extension A	ghou_lim_1983
-㓦	u+34e6	CJK Unified Ideographs Extension A	lim_1997
-㕶	u+3576	CJK Unified Ideographs Extension A	ghou_lim_1983
-㖸	u+35b8	CJK Unified Ideographs Extension A	ghou_lim_1983
-㖹	u+35b9	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㗅	u+35c5	CJK Unified Ideographs Extension A	li_1959
-㗑	u+35d1	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997
-㗱	u+35f1	CJK Unified Ideographs Extension A	li_1959
-㘥	u+3625	CJK Unified Ideographs Extension A	lim_1997
-㙟	u+365f	CJK Unified Ideographs Extension A	lim_1997
-㜁	u+3701	CJK Unified Ideographs Extension A	lim_1997
-㜷	u+3737	CJK Unified Ideographs Extension A	li_lim_1992
-㞘	u+3798	CJK Unified Ideographs Extension A	lim_1997
-㟖	u+37d6	CJK Unified Ideographs Extension A	lim_1997
-㟤	u+37e4	CJK Unified Ideographs Extension A	lim_1997
-㠖	u+3816	CJK Unified Ideographs Extension A	lim_1997
-㦸	u+39b8	CJK Unified Ideographs Extension A	ghou_lim_1983
-㧃	u+39c3	CJK Unified Ideographs Extension A	li_1959
-㧫	u+39eb	CJK Unified Ideographs Extension A	li_1959
-㧻	u+39fb	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㨟	u+3a1f	CJK Unified Ideographs Extension A	li_lim_1992
-㨮	u+3a2e	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㩋	u+3a4b	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㩍	u+3a4d	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㩒	u+3a52	CJK Unified Ideographs Extension A	lim_1997
-㩟	u+3a5f	CJK Unified Ideographs Extension A	lim_1997
-㩳	u+3a73	CJK Unified Ideographs Extension A	lim_1997
-㩹	u+3a79	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-㩼	u+3a7c	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997
-㪖	u+3a96	CJK Unified Ideographs Extension A	li_lim_1992
-㪗	u+3a97	CJK Unified Ideographs Extension A	li_lim_1992
-㬉	u+3b09	CJK Unified Ideographs Extension A	ghou_lim_1983
-㰍	u+3c0d	CJK Unified Ideographs Extension A	li_1959
-㲓	u+3c93	CJK Unified Ideographs Extension A	ghou_lim_1983
-㴩	u+3d29	CJK Unified Ideographs Extension A	lim_1997
-㴷	u+3d37	CJK Unified Ideographs Extension A	lim_1997
-㴻	u+3d3b	CJK Unified Ideographs Extension A	ghou_lim_1983
-㵐	u+3d50	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997
-㵾	u+3d7e	CJK Unified Ideographs Extension A	lim_1997
-㹭	u+3e6d	CJK Unified Ideographs Extension A	lim_1997
-㼆	u+3f06	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997
-㼦	u+3f26	CJK Unified Ideographs Extension A	li_lim_1992
-㼧	u+3f27	CJK Unified Ideographs Extension A	li_lim_1992
-㼰	u+3f30	CJK Unified Ideographs Extension A	li_lim_1992
-㽀	u+3f40	CJK Unified Ideographs Extension A	li_lim_1992
-㽱	u+3f71	CJK Unified Ideographs Extension A	li_lim_1992
-㽽	u+3f7d	CJK Unified Ideographs Extension A	zeng_1991
-㾪	u+3faa	CJK Unified Ideographs Extension A	ghou_lim_1983;li_lim_1992
-㾫	u+3fab	CJK Unified Ideographs Extension A	li_lim_1992
-㿜	u+3fdc	CJK Unified Ideographs Extension A	ghou_lim_1983
-䀉	u+4009	CJK Unified Ideographs Extension A	ghou_lim_1983
-䀛	u+401b	CJK Unified Ideographs Extension A	li_lim_1992
-䀨	u+4028	CJK Unified Ideographs Extension A	ghou_lim_1983
-䀩	u+4029	CJK Unified Ideographs Extension A	li_lim_1992
-䀹	u+4039	CJK Unified Ideographs Extension A	ghou_lim_1983
-䃰	u+40f0	CJK Unified Ideographs Extension A	ghou_lim_1983
-䄛	u+411b	CJK Unified Ideographs Extension A	li_1959
-䆲	u+41b2	CJK Unified Ideographs Extension A	ghou_lim_1983
-䊜	u+429c	CJK Unified Ideographs Extension A	ghou_lim_1983
-䊦	u+42a6	CJK Unified Ideographs Extension A	li_1959
-䋫	u+42eb	CJK Unified Ideographs Extension A	ghou_lim_1983
-䎱	u+43b1	CJK Unified Ideographs Extension A	ghou_lim_1983
-䏿	u+43ff	CJK Unified Ideographs Extension A	ghou_lim_1983
-䐛	u+441b	CJK Unified Ideographs Extension A	ghou_lim_1983
-䑩	u+4469	CJK Unified Ideographs Extension A	ghou_lim_1983
-䒷	u+44b7	CJK Unified Ideographs Extension A	ghou_lim_1983
-䓖	u+44d6	CJK Unified Ideographs Extension A	lim_1997
-䔛	u+451b	CJK Unified Ideographs Extension A	lim_1997
-䔮	u+452e	CJK Unified Ideographs Extension A	li_1959;lim_1997
-䕧	u+4567	CJK Unified Ideographs Extension A	li_lim_1992
-䖳	u+45b3	CJK Unified Ideographs Extension A	ghou_lim_1983
-䗐	u+45d0	CJK Unified Ideographs Extension A	li_lim_1992
-䘮	u+462e	CJK Unified Ideographs Extension A	ghou_lim_1983
-䘼	u+463c	CJK Unified Ideographs Extension A	ghou_lim_1983;li_lim_1992
-䚀	u+4680	CJK Unified Ideographs Extension A	ghou_lim_1983
-䛩	u+46e9	CJK Unified Ideographs Extension A	li_1959
-䜴	u+4734	CJK Unified Ideographs Extension A	li_1959
-䝟	u+475f	CJK Unified Ideographs Extension A	lim_1997
-䟉	u+47c9	CJK Unified Ideographs Extension A	li_1959
-䟕	u+47d5	CJK Unified Ideographs Extension A	ghou_lim_1983
-䟹	u+47f9	CJK Unified Ideographs Extension A	li_1959
-䠀	u+4800	CJK Unified Ideographs Extension A	ghou_lim_1983
-䠚	u+481a	CJK Unified Ideographs Extension A	ghou_lim_1983
-䤔	u+4914	CJK Unified Ideographs Extension A	li_1959
-䦷	u+49b7	CJK Unified Ideographs Extension A	lim_1997
-䧹	u+49f9	CJK Unified Ideographs Extension A	li_lim_1992
-䩺	u+4a7a	CJK Unified Ideographs Extension A	ghou_lim_1983
-䬲	u+4b32	CJK Unified Ideographs Extension A	ghou_lim_1983
-䭔	u+4b54	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997
-䭕	u+4b55	CJK Unified Ideographs Extension A	li_lim_1992
-䭮	u+4b6e	CJK Unified Ideographs Extension A	zeng_1991
-䯞	u+4bde	CJK Unified Ideographs Extension A	ghou_lim_1983
-䴊	u+4d0a	CJK Unified Ideographs Extension A	ghou_lim_1983
-䶕	u+4d95	CJK Unified Ideographs Extension A	li_lim_1992
-凞	u+fa15	CJK Compatibility Ideographs	li_1959
-𠁞	u+2005e	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959;lim_1997
-𠏮	u+203ee	CJK Unified Ideographs Extension B	li_1959;li_lim_1992;lim_1997
-𠓗	u+204d7	CJK Unified Ideographs Extension B	lim_1997
-𠕇	u+20547	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959;lim_1997
-𠛪	u+206ea	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𠜙	u+20719	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𠜱	u+20731	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𠞭	u+207ad	CJK Unified Ideographs Extension B	lim_1997
-𠠍	u+2080d	CJK Unified Ideographs Extension B	li_lim_1992
-𠠏	u+2080f	CJK Unified Ideographs Extension B	lim_1997
-𠠝	u+2081d	CJK Unified Ideographs Extension B	li_lim_1992
-𠡒	u+20852	CJK Unified Ideographs Extension B	li_1959;li_lim_1992;lim_1997
-𠢕	u+20895	CJK Unified Ideographs Extension B	li_lim_1992
-𠥜	u+2095c	CJK Unified Ideographs Extension B	li_lim_1992
-𠮾	u+20bbe	CJK Unified Ideographs Extension B	ghou_lim_1983
-𠰍	u+20c0d	CJK Unified Ideographs Extension B	li_1959
-𠱀	u+20c40	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997
-𠱃	u+20c43	CJK Unified Ideographs Extension B	li_1959
-𠶧	u+20da7	CJK Unified Ideographs Extension B	zeng_1991
-𠷿	u+20dff	CJK Unified Ideographs Extension B	ghou_lim_1983
-𠹛	u+20e5b	CJK Unified Ideographs Extension B	lim_1997
-𠹭	u+20e6d	CJK Unified Ideographs Extension B	ghou_lim_1983
-𠿓	u+20fd3	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𠿺	u+20ffa	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997
-𡂿	u+210bf	CJK Unified Ideographs Extension B	lim_1997
-𡏩	u+213e9	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𡚸	u+216b8	CJK Unified Ideographs Extension B	li_1959;lim_1997
-𡜵	u+21735	CJK Unified Ideographs Extension B	li_1959
-𡟓	u+217d3	CJK Unified Ideographs Extension B	li_1959;lim_1997
-𡥘	u+21958	CJK Unified Ideographs Extension B	li_1959;lim_1997;zeng_1991
-𡩴	u+21a74	CJK Unified Ideographs Extension B	ghou_lim_1983
-𡫬	u+21aec	CJK Unified Ideographs Extension B	lim_1997
-𡼲	u+21f32	CJK Unified Ideographs Extension B	ghou_lim_1983
-𢅎	u+2214e	CJK Unified Ideographs Extension B	li_lim_1992
-𢙼	u+2267c	CJK Unified Ideographs Extension B	li_lim_1992
-𢤱	u+22931	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𢬎	u+22b0e	CJK Unified Ideographs Extension B	li_1959
-𢯞	u+22bde	CJK Unified Ideographs Extension B	li_1959
-𢰝	u+22c1d	CJK Unified Ideographs Extension B	li_1959
-𢱡	u+22c61	CJK Unified Ideographs Extension B	li_lim_1992
-𢲸	u+22cb8	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𢲾	u+22cbe	CJK Unified Ideographs Extension B	ghou_lim_1983
-𢴿	u+22d3f	CJK Unified Ideographs Extension B	li_1959
-𢶀	u+22d80	CJK Unified Ideographs Extension B	lim_1997
-𢶍	u+22d8d	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959
-𢻨	u+22ee8	CJK Unified Ideographs Extension B	li_1959
-𣁧	u+23067	CJK Unified Ideographs Extension B	li_1959
-𣖄	u+23584	CJK Unified Ideographs Extension B	li_lim_1992
-𣙷	u+23677	CJK Unified Ideographs Extension B	ghou_lim_1983
-𣛮	u+236ee	CJK Unified Ideographs Extension B	ghou_lim_1983
-𣟄	u+237c4	CJK Unified Ideographs Extension B	ghou_lim_1983
-𣟵	u+237f5	CJK Unified Ideographs Extension B	li_1959;li_lim_1992
-𣢁	u+23881	CJK Unified Ideographs Extension B	li_lim_1992
-𣢣	u+238a3	CJK Unified Ideographs Extension B	li_lim_1992
-𣭾	u+23b7e	CJK Unified Ideographs Extension B	li_1959
-𣴨	u+23d28	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𣵀	u+23d40	CJK Unified Ideographs Extension B	ghou_lim_1983
-𣶍	u+23d8d	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𣽏	u+23f4f	CJK Unified Ideographs Extension B	li_1959
-𣿅	u+23fc5	CJK Unified Ideographs Extension B	lim_1997
-𤄷	u+24137	CJK Unified Ideographs Extension B	li_1959
-𤆬	u+241ac	CJK Unified Ideographs Extension B	zeng_1991
-𤏡	u+243e1	CJK Unified Ideographs Extension B	ghou_lim_1983
-𤞚	u+2479a	CJK Unified Ideographs Extension B	ghou_lim_1983;li_lim_1992;lim_1997
-𤷕	u+24dd5	CJK Unified Ideographs Extension B	li_lim_1992
-𤷗	u+24dd7	CJK Unified Ideographs Extension B	li_lim_1992
-𤷫	u+24deb	CJK Unified Ideographs Extension B	li_1959;li_lim_1992
-𤼐	u+24f10	CJK Unified Ideographs Extension B	li_lim_1992
-𥆌	u+2518c	CJK Unified Ideographs Extension B	li_lim_1992
-𥉐	u+25250	CJK Unified Ideographs Extension B	li_1959
-𥍉	u+25349	CJK Unified Ideographs Extension B	li_1959
-𥎱	u+253b1	CJK Unified Ideographs Extension B	ghou_lim_1983
-𥑐	u+25450	CJK Unified Ideographs Extension B	li_1959
-𥒰	u+254b0	CJK Unified Ideographs Extension B	zeng_1991
-𥕦	u+25566	CJK Unified Ideographs Extension B	ghou_lim_1983
-𥱊	u+25c4a	CJK Unified Ideographs Extension B	li_1959
-𥴴	u+25d34	CJK Unified Ideographs Extension B	li_lim_1992
-𥸱	u+25e31	CJK Unified Ideographs Extension B	ghou_lim_1983
-𥹂	u+25e42	CJK Unified Ideographs Extension B	zeng_1991
-𥺴	u+25eb4	CJK Unified Ideographs Extension B	ghou_lim_1983
-𦃘	u+260d8	CJK Unified Ideographs Extension B	li_lim_1992
-𦅇	u+26147	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𦢊	u+2688a	CJK Unified Ideographs Extension B	li_lim_1992
-𦭶	u+26b76	CJK Unified Ideographs Extension B	ghou_lim_1983
-𦮷	u+26bb7	CJK Unified Ideographs Extension B	ghou_lim_1983
-𧊭	u+272ad	CJK Unified Ideographs Extension B	li_1959
-𧌊	u+2730a	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959
-𧐔	u+27414	CJK Unified Ideographs Extension B	ghou_lim_1983
-𧙥	u+27665	CJK Unified Ideographs Extension B	li_1959
-𧝞	u+2775e	CJK Unified Ideographs Extension B	ghou_lim_1983
-𧟄	u+277c4	CJK Unified Ideographs Extension B	ghou_lim_1983
-𧢢	u+278a2	CJK Unified Ideographs Extension B	li_lim_1992
-𧬨	u+27b28	CJK Unified Ideographs Extension B	lim_1997
-𧭈	u+27b48	CJK Unified Ideographs Extension B	lim_1997
-𧰵	u+27c35	CJK Unified Ideographs Extension B	lim_1997
-𧳟	u+27cdf	CJK Unified Ideographs Extension B	li_lim_1992
-𧻓	u+27ed3	CJK Unified Ideographs Extension B	li_lim_1992
-𧿉	u+27fc9	CJK Unified Ideographs Extension B	li_1959
-𧿼	u+27ffc	CJK Unified Ideographs Extension B	ghou_lim_1983
-𨁷	u+28077	CJK Unified Ideographs Extension B	li_1959
-𨂿	u+280bf	CJK Unified Ideographs Extension B	lim_1997
-𨄮	u+2812e	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997
-𨇗	u+281d7	CJK Unified Ideographs Extension B	li_1959
-𨉖	u+28256	CJK Unified Ideographs Extension B	li_1959
-𨍹	u+28379	CJK Unified Ideographs Extension B	li_lim_1992
-𨓈	u+284c8	CJK Unified Ideographs Extension B	lim_1997
-𨻧	u+28ee7	CJK Unified Ideographs Extension B	ghou_lim_1983
-𨻼	u+28efc	CJK Unified Ideographs Extension B	li_1959
-𩁺	u+2907a	CJK Unified Ideographs Extension B	li_lim_1992
-𩄽	u+2913d	CJK Unified Ideographs Extension B	li_1959
-𩅉	u+29149	CJK Unified Ideographs Extension B	li_1959
-𩐅	u+29405	CJK Unified Ideographs Extension B	ghou_lim_1983
-𩓐	u+294d0	CJK Unified Ideographs Extension B	ghou_lim_1983
-𩩍	u+29a4d	CJK Unified Ideographs Extension B	li_lim_1992
-𩭲	u+29b72	CJK Unified Ideographs Extension B	ghou_lim_1983
-𩶱	u+29db1	CJK Unified Ideographs Extension B	li_lim_1992
-𩷽	u+29dfd	CJK Unified Ideographs Extension B	ghou_lim_1983
-𪃿	u+2a0ff	CJK Unified Ideographs Extension B	li_1959
-𪉿	u+2a27f	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997
-𪭪	u+2ab6a	CJK Unified Ideographs Extension C	li_1959
-𪰍	u+2ac0d	CJK Unified Ideographs Extension C	li_1959
-𫀸	u+2b038	CJK Unified Ideographs Extension C	li_1959
-𫊬	u+2b2ac	CJK Unified Ideographs Extension C	li_1959
-𫎱	u+2b3b1	CJK Unified Ideographs Extension C	li_lim_1992
-𫜦	u+2b726	CJK Unified Ideographs Extension C	li_1959
-𫢗	u+2b897	CJK Unified Ideographs Extension E	li_1959
-𫩷	u+2ba77	CJK Unified Ideographs Extension E	li_1959;zeng_1991
-𫰇	u+2bc07	CJK Unified Ideographs Extension E	zeng_1991
-𫾚	u+2bf9a	CJK Unified Ideographs Extension E	zeng_1991
-𬉸	u+2c278	CJK Unified Ideographs Extension E	li_lim_1992
-𬓤	u+2c4e4	CJK Unified Ideographs Extension E	li_1959
-𬠋	u+2c80b	CJK Unified Ideographs Extension E	li_1959
-𬠕	u+2c815	CJK Unified Ideographs Extension E	li_1959
-𬶼	u+2cdbc	CJK Unified Ideographs Extension E	li_1959
-𭭖	u+2db56	CJK Unified Ideographs Extension F	li_lim_1992
-𰇇	u+301c7	CJK Unified Ideographs Extension G	li_1959;lim_1997
-𰉀	u+30240	CJK Unified Ideographs Extension G	li_1959
-𰔖	u+30516	CJK Unified Ideographs Extension G	li_lim_1992
-𰩭	u+30a6d	CJK Unified Ideographs Extension G	zeng_1991
+char	codepoint	block	sources	noto-sans-tc	babelstone-han	i-ming
+㑳	u+3473	CJK Unified Ideographs Extension A	lim_1997	True	True	True
+㑺	u+347a	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	False
+㓦	u+34e6	CJK Unified Ideographs Extension A	lim_1997	True	True	True
+㕶	u+3576	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+㖸	u+35b8	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+㖹	u+35b9	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	False	True	True
+㗅	u+35c5	CJK Unified Ideographs Extension A	li_1959	True	True	True
+㗑	u+35d1	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997	False	True	False
+㗱	u+35f1	CJK Unified Ideographs Extension A	li_1959	True	True	True
+㘥	u+3625	CJK Unified Ideographs Extension A	lim_1997	True	True	True
+㙟	u+365f	CJK Unified Ideographs Extension A	lim_1997	True	True	False
+㜁	u+3701	CJK Unified Ideographs Extension A	lim_1997	True	True	False
+㜷	u+3737	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+㞘	u+3798	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㟖	u+37d6	CJK Unified Ideographs Extension A	lim_1997	True	True	False
+㟤	u+37e4	CJK Unified Ideographs Extension A	lim_1997	False	True	False
+㠖	u+3816	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㦸	u+39b8	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+㧃	u+39c3	CJK Unified Ideographs Extension A	li_1959	False	False	True
+㧫	u+39eb	CJK Unified Ideographs Extension A	li_1959	False	True	True
+㧻	u+39fb	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	True	True	True
+㨟	u+3a1f	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+㨮	u+3a2e	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	False	True	True
+㩋	u+3a4b	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	True	True	True
+㩍	u+3a4d	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	False	False	True
+㩒	u+3a52	CJK Unified Ideographs Extension A	lim_1997	True	True	True
+㩟	u+3a5f	CJK Unified Ideographs Extension A	lim_1997	False	True	False
+㩳	u+3a73	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㩹	u+3a79	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	False	True	False
+㩼	u+3a7c	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997	False	True	True
+㪖	u+3a96	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+㪗	u+3a97	CJK Unified Ideographs Extension A	li_lim_1992	True	True	True
+㬉	u+3b09	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+㰍	u+3c0d	CJK Unified Ideographs Extension A	li_1959	True	True	True
+㲓	u+3c93	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+㴩	u+3d29	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㴷	u+3d37	CJK Unified Ideographs Extension A	lim_1997	False	False	True
+㴻	u+3d3b	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	False
+㵐	u+3d50	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997	False	True	True
+㵾	u+3d7e	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㹭	u+3e6d	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+㼆	u+3f06	CJK Unified Ideographs Extension A	ghou_lim_1983;lim_1997	True	True	False
+㼦	u+3f26	CJK Unified Ideographs Extension A	li_lim_1992	False	False	True
+㼧	u+3f27	CJK Unified Ideographs Extension A	li_lim_1992	False	False	True
+㼰	u+3f30	CJK Unified Ideographs Extension A	li_lim_1992	False	False	True
+㽀	u+3f40	CJK Unified Ideographs Extension A	li_lim_1992	False	False	True
+㽱	u+3f71	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+㽽	u+3f7d	CJK Unified Ideographs Extension A	zeng_1991	False	False	True
+㾪	u+3faa	CJK Unified Ideographs Extension A	ghou_lim_1983;li_lim_1992	False	True	True
+㾫	u+3fab	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+㿜	u+3fdc	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	False
+䀉	u+4009	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䀛	u+401b	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+䀨	u+4028	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䀩	u+4029	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+䀹	u+4039	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䃰	u+40f0	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䄛	u+411b	CJK Unified Ideographs Extension A	li_1959	False	False	True
+䆲	u+41b2	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䊜	u+429c	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䊦	u+42a6	CJK Unified Ideographs Extension A	li_1959	False	True	True
+䋫	u+42eb	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䎱	u+43b1	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䏿	u+43ff	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䐛	u+441b	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䑩	u+4469	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	False
+䒷	u+44b7	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䓖	u+44d6	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+䔛	u+451b	CJK Unified Ideographs Extension A	lim_1997	True	True	True
+䔮	u+452e	CJK Unified Ideographs Extension A	li_1959;lim_1997	True	False	True
+䕧	u+4567	CJK Unified Ideographs Extension A	li_lim_1992	False	False	True
+䖳	u+45b3	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䗐	u+45d0	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+䘮	u+462e	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䘼	u+463c	CJK Unified Ideographs Extension A	ghou_lim_1983;li_lim_1992	False	True	True
+䚀	u+4680	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䛩	u+46e9	CJK Unified Ideographs Extension A	li_1959	False	True	True
+䜴	u+4734	CJK Unified Ideographs Extension A	li_1959	False	True	True
+䝟	u+475f	CJK Unified Ideographs Extension A	lim_1997	False	True	True
+䟉	u+47c9	CJK Unified Ideographs Extension A	li_1959	False	False	True
+䟕	u+47d5	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䟹	u+47f9	CJK Unified Ideographs Extension A	li_1959	False	False	True
+䠀	u+4800	CJK Unified Ideographs Extension A	ghou_lim_1983	True	True	True
+䠚	u+481a	CJK Unified Ideographs Extension A	ghou_lim_1983	False	False	True
+䤔	u+4914	CJK Unified Ideographs Extension A	li_1959	False	False	True
+䦷	u+49b7	CJK Unified Ideographs Extension A	lim_1997	False	True	False
+䧹	u+49f9	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+䩺	u+4a7a	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䬲	u+4b32	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䭔	u+4b54	CJK Unified Ideographs Extension A	li_lim_1992;lim_1997	False	True	True
+䭕	u+4b55	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+䭮	u+4b6e	CJK Unified Ideographs Extension A	zeng_1991	False	True	True
+䯞	u+4bde	CJK Unified Ideographs Extension A	ghou_lim_1983	False	False	True
+䴊	u+4d0a	CJK Unified Ideographs Extension A	ghou_lim_1983	False	True	True
+䶕	u+4d95	CJK Unified Ideographs Extension A	li_lim_1992	False	True	True
+凞	u+fa15	CJK Compatibility Ideographs	li_1959	False	True	True
+𠁞	u+2005e	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959;lim_1997	False	True	True
+𠏮	u+203ee	CJK Unified Ideographs Extension B	li_1959;li_lim_1992;lim_1997	False	True	True
+𠓗	u+204d7	CJK Unified Ideographs Extension B	lim_1997	True	True	True
+𠕇	u+20547	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959;lim_1997	True	True	True
+𠛪	u+206ea	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	False	True
+𠜙	u+20719	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	False	True
+𠜱	u+20731	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	True	True	True
+𠞭	u+207ad	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𠠍	u+2080d	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𠠏	u+2080f	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𠠝	u+2081d	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𠡒	u+20852	CJK Unified Ideographs Extension B	li_1959;li_lim_1992;lim_1997	False	True	True
+𠢕	u+20895	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𠥜	u+2095c	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𠮾	u+20bbe	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𠰍	u+20c0d	CJK Unified Ideographs Extension B	li_1959	True	True	True
+𠱀	u+20c40	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997	False	True	True
+𠱃	u+20c43	CJK Unified Ideographs Extension B	li_1959	True	True	True
+𠶧	u+20da7	CJK Unified Ideographs Extension B	zeng_1991	True	True	True
+𠷿	u+20dff	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𠹛	u+20e5b	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𠹭	u+20e6d	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	True
+𠿓	u+20fd3	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𠿺	u+20ffa	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997	False	False	False
+𡂿	u+210bf	CJK Unified Ideographs Extension B	lim_1997	True	True	False
+𡏩	u+213e9	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𡚸	u+216b8	CJK Unified Ideographs Extension B	li_1959;lim_1997	True	False	True
+𡜵	u+21735	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𡟓	u+217d3	CJK Unified Ideographs Extension B	li_1959;lim_1997	False	True	True
+𡥘	u+21958	CJK Unified Ideographs Extension B	li_1959;lim_1997;zeng_1991	True	True	False
+𡩴	u+21a74	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𡫬	u+21aec	CJK Unified Ideographs Extension B	lim_1997	False	False	True
+𡼲	u+21f32	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𢅎	u+2214e	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𢙼	u+2267c	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𢤱	u+22931	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𢬎	u+22b0e	CJK Unified Ideographs Extension B	li_1959	True	False	False
+𢯞	u+22bde	CJK Unified Ideographs Extension B	li_1959	False	False	False
+𢰝	u+22c1d	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𢱡	u+22c61	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𢲸	u+22cb8	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𢲾	u+22cbe	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𢴿	u+22d3f	CJK Unified Ideographs Extension B	li_1959	False	False	True
+𢶀	u+22d80	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𢶍	u+22d8d	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959	True	True	True
+𢻨	u+22ee8	CJK Unified Ideographs Extension B	li_1959	False	True	False
+𣁧	u+23067	CJK Unified Ideographs Extension B	li_1959	False	False	True
+𣖄	u+23584	CJK Unified Ideographs Extension B	li_lim_1992	False	True	False
+𣙷	u+23677	CJK Unified Ideographs Extension B	ghou_lim_1983	True	False	False
+𣛮	u+236ee	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	True
+𣟄	u+237c4	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𣟵	u+237f5	CJK Unified Ideographs Extension B	li_1959;li_lim_1992	False	True	True
+𣢁	u+23881	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𣢣	u+238a3	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𣭾	u+23b7e	CJK Unified Ideographs Extension B	li_1959	False	False	False
+𣴨	u+23d28	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	False	False
+𣵀	u+23d40	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	True
+𣶍	u+23d8d	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𣽏	u+23f4f	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𣿅	u+23fc5	CJK Unified Ideographs Extension B	lim_1997	True	True	True
+𤄷	u+24137	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𤆬	u+241ac	CJK Unified Ideographs Extension B	zeng_1991	True	True	True
+𤏡	u+243e1	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𤞚	u+2479a	CJK Unified Ideographs Extension B	ghou_lim_1983;li_lim_1992;lim_1997	False	True	True
+𤷕	u+24dd5	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𤷗	u+24dd7	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𤷫	u+24deb	CJK Unified Ideographs Extension B	li_1959;li_lim_1992	True	False	False
+𤼐	u+24f10	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𥆌	u+2518c	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𥉐	u+25250	CJK Unified Ideographs Extension B	li_1959	True	True	True
+𥍉	u+25349	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𥎱	u+253b1	CJK Unified Ideographs Extension B	ghou_lim_1983	False	False	True
+𥑐	u+25450	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𥒰	u+254b0	CJK Unified Ideographs Extension B	zeng_1991	False	True	True
+𥕦	u+25566	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	True
+𥱊	u+25c4a	CJK Unified Ideographs Extension B	li_1959	True	False	False
+𥴴	u+25d34	CJK Unified Ideographs Extension B	li_lim_1992	False	False	True
+𥸱	u+25e31	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𥹂	u+25e42	CJK Unified Ideographs Extension B	zeng_1991	False	True	True
+𥺴	u+25eb4	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	False
+𦃘	u+260d8	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𦅇	u+26147	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𦢊	u+2688a	CJK Unified Ideographs Extension B	li_lim_1992	True	True	True
+𦭶	u+26b76	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𦮷	u+26bb7	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𧊭	u+272ad	CJK Unified Ideographs Extension B	li_1959	False	False	True
+𧌊	u+2730a	CJK Unified Ideographs Extension B	ghou_lim_1983;li_1959	False	False	True
+𧐔	u+27414	CJK Unified Ideographs Extension B	ghou_lim_1983	False	False	True
+𧙥	u+27665	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𧝞	u+2775e	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	False
+𧟄	u+277c4	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𧢢	u+278a2	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𧬨	u+27b28	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𧭈	u+27b48	CJK Unified Ideographs Extension B	lim_1997	True	True	True
+𧰵	u+27c35	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𧳟	u+27cdf	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𧻓	u+27ed3	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𧿉	u+27fc9	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𧿼	u+27ffc	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𨁷	u+28077	CJK Unified Ideographs Extension B	li_1959	False	False	True
+𨂿	u+280bf	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𨄮	u+2812e	CJK Unified Ideographs Extension B	ghou_lim_1983;lim_1997	True	True	False
+𨇗	u+281d7	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𨉖	u+28256	CJK Unified Ideographs Extension B	li_1959	True	True	True
+𨍹	u+28379	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𨓈	u+284c8	CJK Unified Ideographs Extension B	lim_1997	False	True	True
+𨻧	u+28ee7	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	False
+𨻼	u+28efc	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𩁺	u+2907a	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𩄽	u+2913d	CJK Unified Ideographs Extension B	li_1959	False	False	True
+𩅉	u+29149	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𩐅	u+29405	CJK Unified Ideographs Extension B	ghou_lim_1983	False	True	True
+𩓐	u+294d0	CJK Unified Ideographs Extension B	ghou_lim_1983	True	True	False
+𩩍	u+29a4d	CJK Unified Ideographs Extension B	li_lim_1992	True	False	True
+𩭲	u+29b72	CJK Unified Ideographs Extension B	ghou_lim_1983	False	False	False
+𩶱	u+29db1	CJK Unified Ideographs Extension B	li_lim_1992	False	True	True
+𩷽	u+29dfd	CJK Unified Ideographs Extension B	ghou_lim_1983	False	False	False
+𪃿	u+2a0ff	CJK Unified Ideographs Extension B	li_1959	False	True	True
+𪉿	u+2a27f	CJK Unified Ideographs Extension B	li_lim_1992;lim_1997	False	True	True
+𪭪	u+2ab6a	CJK Unified Ideographs Extension C	li_1959	False	True	False
+𪰍	u+2ac0d	CJK Unified Ideographs Extension C	li_1959	False	True	False
+𫀸	u+2b038	CJK Unified Ideographs Extension C	li_1959	False	True	False
+𫊬	u+2b2ac	CJK Unified Ideographs Extension C	li_1959	False	False	False
+𫎱	u+2b3b1	CJK Unified Ideographs Extension C	li_lim_1992	False	True	False
+𫜦	u+2b726	CJK Unified Ideographs Extension C	li_1959	False	True	False
+𫢗	u+2b897	CJK Unified Ideographs Extension E	li_1959	False	True	False
+𫩷	u+2ba77	CJK Unified Ideographs Extension E	li_1959;zeng_1991	False	True	False
+𫰇	u+2bc07	CJK Unified Ideographs Extension E	zeng_1991	False	False	False
+𫾚	u+2bf9a	CJK Unified Ideographs Extension E	zeng_1991	False	True	False
+𬉸	u+2c278	CJK Unified Ideographs Extension E	li_lim_1992	False	True	False
+𬓤	u+2c4e4	CJK Unified Ideographs Extension E	li_1959	False	True	False
+𬠋	u+2c80b	CJK Unified Ideographs Extension E	li_1959	False	True	True
+𬠕	u+2c815	CJK Unified Ideographs Extension E	li_1959	False	True	False
+𬶼	u+2cdbc	CJK Unified Ideographs Extension E	li_1959	False	True	False
+𭭖	u+2db56	CJK Unified Ideographs Extension F	li_lim_1992	False	True	False
+𰇇	u+301c7	CJK Unified Ideographs Extension G	li_1959;lim_1997	False	True	False
+𰉀	u+30240	CJK Unified Ideographs Extension G	li_1959	False	True	False
+𰔖	u+30516	CJK Unified Ideographs Extension G	li_lim_1992	False	False	False
+𰩭	u+30a6d	CJK Unified Ideographs Extension G	zeng_1991	False	True	False
